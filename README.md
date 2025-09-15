@@ -1,5 +1,13 @@
+---
+name: "Pere Gomila"
+slack_handle: "@Pegoku"
+github_handle: "@Pegoku"
+---
+
 # LED-Display
-A 32x32 (64x64mm) RGB LED matrix display
+This is a custom mini LED display. Total of 1024 WS2812B in a small 64x64mm form factor
+
+**Estimated cost:** ~$169
 
 ## Features
 - Easy to display text and simple graphics
